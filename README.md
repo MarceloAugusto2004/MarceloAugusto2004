@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Oi meu nome é Marcelo
+- 🐛 Estudante de BTI na Universidade Federal do Semi-Árido (UFERSA)
 <!--
 **MarceloAugusto2004/MarceloAugusto2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Estatísticas do GitHub de MarceloAugusto2004](https://github-readme-stats.vercel.app/api?username=MarceloAugusto2004&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
+
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o))
