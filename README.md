@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 ![Estatísticas do GitHub de MarceloAugusto2004](https://github-readme-stats.vercel.app/api?username=MarceloAugusto2004&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
 
-- Linguagens de Programação
+- 🦋 Redes Sociais:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marceloaugusto464/)
+
+- Linguagens de Programação:
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o))
