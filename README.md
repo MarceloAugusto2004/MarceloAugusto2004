@@ -1,5 +1,5 @@
 ### Oi meu nome é Marcelo
-- 🐛 Estudante de BTI na Universidade Federal do Semi-Árido (UFERSA)
+- 🐛 Estudante de BTI na Universidade Federal rural do Semi-Árido (UFERSA)
 <!--
 **MarceloAugusto2004/MarceloAugusto2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
